@@ -1,0 +1,26 @@
+# Directories #
+/build/
+target/
+
+ 
+*.class
+ 
+# Package Files #
+*.jar
+*.war
+*.ear
+*.db
+
+######################
+# Eclipse
+######################
+ 
+*.pydevproject
+.project
+.metadata
+bin/**
+tmp/**
+tmp/**/*
+.classpath
+.settings/
+.loadpath
